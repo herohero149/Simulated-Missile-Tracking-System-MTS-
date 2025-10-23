@@ -1,0 +1,6 @@
+timestamp,object_id,position_x,position_y,velocity_x,velocity_y,speed,confidence,bbox_x1,bbox_y1,bbox_x2,bbox_y2,age,hits,prediction_method,impact_point_x,impact_point_y,time_to_impact,prediction_confidence
+1761223056.4035192,1,150,125,5,-2,0,0,0,0,0,0,0,0,none,0,0,0,0
+1761223796.8230236,1,150,125,5,-2,0,0,0,0,0,0,0,0,none,0,0,0,0
+1761224485.3124897,1,150,125,5,-2,0,0,0,0,0,0,0,0,none,0,0,0,0
+1761224615.493147,1,150,125,5,-2,0,0,0,0,0,0,0,0,none,0,0,0,0
+1761224715.8359437,1,150,125,5,-2,0,0,0,0,0,0,0,0,none,0,0,0,0
